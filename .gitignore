@@ -1,0 +1,17 @@
+# No research records, generated results, credentials, or local environments.
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+data/
+results*/
+figures*/
+*.xlsx
+*.xls
+*.csv
+*.json
+*.jpg
+*.png
+*.pdf
+*.docx
